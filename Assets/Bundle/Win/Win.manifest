@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1583398730
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/model.ab
+      Dependencies: {}
